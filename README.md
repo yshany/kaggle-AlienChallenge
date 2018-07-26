@@ -23,7 +23,7 @@ studystack.com
 all simiplewiki corpus\
 about 2000 science tag in wikipeida \
 
-1. collect all the data in txt folder
-2.run textprocessing
-3.run luence indexing and scoring
+1. collect all the data in txt folder \
+2.run textprocessing \
+3.run luence indexing and scoring  \
 4.use xgb make final model
